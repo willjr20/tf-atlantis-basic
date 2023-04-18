@@ -3,7 +3,6 @@ variable "az_rg_name" {
   description = "The Name of the Resource Group"
   type        = string
   default     = "rg-terraform-azurerm"
-
 }
 
 variable "az_rg_location" {
