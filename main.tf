@@ -11,6 +11,3 @@ resource "azurerm_resource_group" "az_rg" {
 
   tags = local.all_tags
 }
-
-
-
