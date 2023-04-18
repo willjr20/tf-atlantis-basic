@@ -2,7 +2,7 @@
 variable "az_rg_name" {
   description = "The Name of the Resource Group"
   type        = string
-  default     = "test-rg"
+  default     = "test-rg-01"
 }
 
 variable "az_rg_location" {
